@@ -120,17 +120,17 @@ Please send feedback to the [issue tracker](https://github.com/StrandedSoftwareD
 
 
 # Footnotes
-<a id="footnote-1">¹</a> (https://www.youtube.com/watch?v=wGhBjMcY2YQ)  
+<a id="footnote-1">¹</a> [https://www.youtube.com/watch?v=wGhBjMcY2YQ](https://www.youtube.com/watch?v=wGhBjMcY2YQ)  
 
 <a id="footnote-2">²</a> You can calculate this and all the other precision values [here](https://evanw.github.io/float-toy/) by seeing how much change flipping the rightmost bit causes when the number is set to the overall size you want to check  
 
-<a id="footnote-3">³</a> (https://www.wolframalpha.com/input?i=0.4+femtometers)
+<a id="footnote-3">³</a> [https://www.wolframalpha.com/input?i=0.4+femtometers](https://www.wolframalpha.com/input?i=0.4+femtometers)
 
-<a id="footnote-4">⁴</a> From (https://en.wikipedia.org/wiki/Maxwell_(microarchitecture)#Performance) : "The theoretical double-precision processing power of a Maxwell GPU is 1/32 of the single precision performance"  
+<a id="footnote-4">⁴</a> From [https://en.wikipedia.org/wiki/Maxwell_(microarchitecture)#Performance](https://en.wikipedia.org/wiki/Maxwell_(microarchitecture)#Performance) : "The theoretical double-precision processing power of a Maxwell GPU is 1/32 of the single precision performance"  
 
-<a id="footnote-5">⁵</a> This reddit comment, apparently from the inventor of Floating Origin: (https://www.reddit.com/r/KerbalSpaceProgram/comments/11hcnyt/comment/jazcq9f/)  
+<a id="footnote-5">⁵</a> This reddit comment, apparently from the inventor of Floating Origin: [https://www.reddit.com/r/KerbalSpaceProgram/comments/11hcnyt/comment/jazcq9f/](https://www.reddit.com/r/KerbalSpaceProgram/comments/11hcnyt/comment/jazcq9f/)  
 
-<a id="footnote-6">⁶</a> Described in detail in this part of this talk by KSP developer Felipe Falanghe (AKA "HarvesteR"): (https://www.youtube.com/watch?v=mXTxQko-JH0&t=377s)  
+<a id="footnote-6">⁶</a> Described in detail in this part of this talk by KSP developer Felipe Falanghe (AKA "HarvesteR"): [https://www.youtube.com/watch?v=mXTxQko-JH0&t=377s](https://www.youtube.com/watch?v=mXTxQko-JH0&t=377s)  
 
 <a id="footnote-7">⁷</a> We usually keep the z coordinate around to make sure closer things render in front of further
   things, but I thought the whole projection thing might be a bit clearer if I specified that
