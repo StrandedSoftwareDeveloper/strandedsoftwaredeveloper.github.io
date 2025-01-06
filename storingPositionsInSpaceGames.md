@@ -49,7 +49,8 @@ However, this system adds a lot of complexity and, if not done carefully, can in
 
 # The "premultiply the matrices" solution
 This is a solution I thought of, and I suspect just *might* be the solution RocketWerkz is using for they're in-(early)-development
-game "Kitten Space Agency" ("KSA", working title). The physics/logic part of the idea is:
+game "Kitten Space Agency" ("KSA", working title). *(Edit: We have confirmation from RocketWerkz that this is indeed how it works in KSA)*
+The physics/logic part of the idea is:
 * Store all positions, velocities, etc. as doubles on the CPU
 * Use a physics engine that supports doubles
 
